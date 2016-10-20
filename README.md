@@ -1,3 +1,3 @@
 # PCLP
 Progr. calc. si lb de progr.
-prima mpdificare 18.55
+prima modificare 18.55, 20 Oct 2016
